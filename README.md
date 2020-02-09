@@ -1,5 +1,7 @@
 # company details API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholasgriffintn/Serverless-CompanyDetailsAPI.svg)](https://greenkeeper.io/)
+
 ## Setting up
 
 Make sure that you have node, Yarn and AWS CLI installed.
