@@ -10,7 +10,7 @@
   "license": "MIT",
   "homepage": "https://nicholasgriffin.dev",
   "dependencies": {
-    "@sentry/node": "5.5.0",
+    "@sentry/node": "5.12.3",
     "async": "^3.1.0",
     "aws-sdk": "^2.522.0",
     "body-parser": "^1.19.0",
@@ -20,7 +20,7 @@
     "get-image-colors": "^2.0.0",
     "lodash": "^4.17.15",
     "node-metainspector": "^2.0.0",
-    "nodemon": "^1.19.2",
+    "nodemon": "^2.0.2",
     "pageres": "^5.1.0",
     "request": "^2.88.0",
     "serverless-api-gateway-caching": "^1.4.0",
